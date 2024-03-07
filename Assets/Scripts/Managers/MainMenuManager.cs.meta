@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: ff57ca5a606068646a78ad03a8ed8b2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageText: {instanceID: 0}
+  - fireRateText: {instanceID: 0}
+  - speedText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - damagePrice: {instanceID: 0}
+  - speedPrice: {instanceID: 0}
+  - healthPrice: {instanceID: 0}
+  - moneyPrice: {instanceID: 0}
+  - upgradeDamageButton: {instanceID: 0}
+  - upgradeSpeedButton: {instanceID: 0}
+  - upgradeHealthButton: {instanceID: 0}
+  - upgradeMoneyButton: {instanceID: 0}
+  - soundSlider: {instanceID: 0}
+  - musicSlider: {instanceID: 0}
+  - buttonClick: {fileID: 8300000, guid: 5af82cb31bb2cc540acc15538c0a4e6f, type: 3}
+  - mainMenu: {instanceID: 0}
+  - shopMenu: {instanceID: 0}
+  - upgradesMenu: {instanceID: 0}
+  - spaceshipsMenu: {instanceID: 0}
+  - settingsMenu: {instanceID: 0}
+  - selectGamemodeMenu: {instanceID: 0}
+  - selectDifficultyMenu: {instanceID: 0}
+  - currentLevelText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - moneyCount: {instanceID: 0}
+  - loadingScreen: {instanceID: 0}
+  - loadingSlider: {instanceID: 0}
+  - loadingPercentage: {instanceID: 0}
+  - loadingTip: {instanceID: 0}
+  - anyKeyPrompt: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: c1ef42722485a0041badfa391742e5c6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

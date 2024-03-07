@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b461eb49d84c4a949bd7b95deff6d2e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireSound: {instanceID: 0}
+  - bullet: {fileID: 3937757261437629000, guid: 890194f60c70c114ba13f074df895e88,
+      type: 3}
+  - explosion: {fileID: 100008, guid: 5fe7b25ee5d07ff4e95b8d595d7b4bc5, type: 3}
+  - textPopup: {fileID: 3546921227744333752, guid: 5b63e4a64c654a14d9f8f94ab4bd849d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
